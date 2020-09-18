@@ -1,0 +1,1 @@
+long global = 10;
